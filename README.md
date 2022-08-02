@@ -2,7 +2,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangwon3828&show_icons=true&theme=cobalt)
 
 [![Solved.ac
-wz99](http://mazassumnida.wtf/api/v2/generate_badge?boj={wz99})](https://solved.ac/{wz99})
+wz99](http://mazassumnida.wtf/api/v2/generate_badge?boj=wz99)](https://solved.ac/wz99)
 
 <!--
 **jangwon3828/jangwon3828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
