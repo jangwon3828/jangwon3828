@@ -1,4 +1,3 @@
-✨Dreaming of a great Java Backend Developer
 ## 📝 Project
 
 ### **Team Project**
